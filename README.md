@@ -9,7 +9,7 @@ SQL · Excel · SPSS · Financial modeling (DCF, WACC, multiples)
 Currently learning: Python (Pandas) · Power BI
 
 ## Projects
-- **[GoMold](https://gomold.co)**: built and launched a live B2B marketplace for the plastic injection molding industry
+- **[GoMold](https://github.com/nadavgoldschmidt/gomold)**: built and launched a live B2B marketplace for the plastic injection molding industry ([live site](https://gomold.co))
 - Data analysis projects: coming soon
 
 ## Connect
